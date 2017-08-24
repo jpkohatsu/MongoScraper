@@ -9,6 +9,7 @@ var mongoose = require("mongoose");
 // Requiring our Note and Article models
 var Note = require("./models/Note.js");
 var Article = require("./models/Article.js");
+var Saved = require("./models/Saved.js");
 // Our scraping tools
 var request = require("request");
 var cheerio = require("cheerio");
@@ -45,6 +46,36 @@ db.once("open", function() {
 
 // Routes
 // ======
+
+app.post("/saved:id", function(req, res){
+  // Create a new saved and pass the req.body to the entry
+  var newSaved = new Saved(req.body);
+
+  // And save the new note the db
+  newSaved.save(function(error, doc) {
+    // Log any errors
+    if (error) {
+      console.log(error);
+    }
+    // Otherwise
+    else {
+      // Use the article id to find and update it's note
+      Saved.findOneAndUpdate({ "_id": req.params.id }, { "article": doc._id })
+      // Execute the above query
+      .exec(function(err, doc) {
+        // Log any errors
+        if (err) {
+          console.log(err);
+        }
+        else {
+          // Or send the document to the browser
+          console.log("saved the article");
+        }
+      });
+    }
+  });
+
+});
 
 // A GET request to scrape the echojs website
 app.get("/scrape", function(req, res) {
