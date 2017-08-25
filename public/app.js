@@ -17,8 +17,8 @@ $(document).on("click", ".save", function() {
   });
 });
 
-// Whenever someone clicks a p tag
-$(document).on("click", "p", function() {
+// Whenever someone clicks a .savedButton tag
+$(document).on("click", ".savedButton", function() {
   // Empty the notes from the note section
   $("#notes").empty();
   // Save the id from the p tag
