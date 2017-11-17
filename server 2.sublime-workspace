@@ -1,0 +1,709 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pr",
+				"production"
+			],
+			[
+				"burger",
+				"burger_name"
+			],
+			[
+				"quer",
+				"queryString"
+			],
+			[
+				"mys",
+				"mysql"
+			],
+			[
+				"bur",
+				"burger_name"
+			],
+			[
+				"burg",
+				"burgers"
+			],
+			[
+				"exp",
+				"exphbs"
+			],
+			[
+				"stock",
+				"stock_quantity"
+			],
+			[
+				"friend",
+				"friendData"
+			],
+			[
+				"chosen",
+				"chosen-container"
+			],
+			[
+				"buy",
+				"buyRequest"
+			],
+			[
+				"bu",
+				"buyRequest"
+			],
+			[
+				"ho",
+				"howMuch"
+			],
+			[
+				"Dep",
+				"DepartmentName"
+			],
+			[
+				"total",
+				"totalAmount"
+			],
+			[
+				"Depart",
+				"DepartmentName"
+			],
+			[
+				"tot",
+				"totalAmount"
+			],
+			[
+				"PORT",
+				"PORTTWO"
+			],
+			[
+				"hand",
+				"handleRequestTwo"
+			],
+			[
+				"bool",
+				"boolArg"
+			],
+			[
+				"string",
+				"stringArg"
+			],
+			[
+				"pro",
+				"professorName"
+			],
+			[
+				"crea",
+				"createPlayer"
+			],
+			[
+				"print",
+				"printStats"
+			],
+			[
+				"rand",
+				"randomNum"
+			],
+			[
+				"goe",
+				"geoLocation"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"meetup",
+				"meetupURL"
+			],
+			[
+				"qu",
+				"queryURL"
+			],
+			[
+				"query",
+				"queryURLBase"
+			],
+			[
+				"Indeed",
+				"IndeedData"
+			],
+			[
+				"first",
+				"firstMinutes"
+			],
+			[
+				"minutes",
+				"minutesAway"
+			],
+			[
+				"frequ",
+				"frequency"
+			],
+			[
+				"freque",
+				"frequencyTime"
+			],
+			[
+				"dest",
+				"destinationName"
+			],
+			[
+				"fre",
+				"frequency-input"
+			],
+			[
+				"conver",
+				"convertedDate"
+			],
+			[
+				"button",
+				"button"
+			],
+			[
+				"high",
+				"highPrice"
+			],
+			[
+				"init",
+				"initialBidder"
+			],
+			[
+				"animal",
+				"animal-input"
+			],
+			[
+				"buttons",
+				"buttons-view"
+			],
+			[
+				"animals",
+				"animals-view"
+			],
+			[
+				"comm",
+				"comment-display"
+			],
+			[
+				"age",
+				"age-display"
+			],
+			[
+				"ema",
+				"email-display"
+			],
+			[
+				"name",
+				"name-display"
+			],
+			[
+				"emai",
+				"email-input"
+			],
+			[
+				"com",
+				"comment-input"
+			],
+			[
+				"start",
+				"startCountDown"
+			],
+			[
+				"gifs",
+				"gifs-appear-here"
+			],
+			[
+				"ar",
+				"artistImg"
+			],
+			[
+				"data-",
+				"data-name"
+			],
+			[
+				"Temp",
+				"temperature"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"randomW",
+				"randomWord"
+			],
+			[
+				"user",
+				"userGuess"
+			],
+			[
+				"gener",
+				"generateDisplay"
+			],
+			[
+				"array",
+				"arrayToDisplay"
+			],
+			[
+				"arra",
+				"arrayToDisplay"
+			],
+			[
+				"word",
+				"wordOptions"
+			],
+			[
+				"coin",
+				"coin-image"
+			],
+			[
+				"big",
+				"biggerWeb"
+			],
+			[
+				"the",
+				"theCobWeb"
+			],
+			[
+				"fridg",
+				"fridgeMagnet"
+			],
+			[
+				"letter",
+				"letter-button"
+			],
+			[
+				"drink",
+				"drinkList"
+			],
+			[
+				"quest",
+				"questionIndex"
+			],
+			[
+				"question",
+				"questionsArray"
+			],
+			[
+				"que",
+				"questionsArray"
+			],
+			[
+				"re",
+				"reWriteStats"
+			],
+			[
+				"get",
+				"getTuneUp"
+			],
+			[
+				"drive",
+				"driveAroundWorld"
+			],
+			[
+				"bandList",
+				"bandListLower"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg-",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"package control ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"file ",
+				"Set Syntax: Batch File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"test.html",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/josephkohatsu/Desktop/mongoScraper/server.js",
+		"/Users/josephkohatsu/Desktop/W11-FIles/13-CrazyClickCounters-Students-Unsolved/app/app.js",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/josephkohatsu/Downloads/12-Parent-to-Child-Students-Unsolved/app/components/Parent.js",
+		"/Users/josephkohatsu/Desktop/W11-FIles/10-WarmupActivity-Students-Unsolved/app/app.js",
+		"/Users/josephkohatsu/Downloads/06-JSXMomentJS-Unsolved/app/app.js",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/controllers/api-routes.js",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/views/layouts/main.handlebars",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/config/config.json",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/public/js/search.js",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/views/searchPage.handlebars",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/controllers/html-routes.js",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/public/css/goods_style.css",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/routing/itemSearchApiRoutes.js",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/server.js",
+		"/Users/josephkohatsu/Desktop/Practice/GoT/server4.js",
+		"/Users/josephkohatsu/Desktop/Practice/GoT/view.html",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/public/js/paypaltest.js",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/views/layouts/paypaltest.js",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/views/paypaltest.handlebars",
+		"/Users/josephkohatsu/Desktop/test.html",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/views/js/paypaltest.js",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/views/updateProfile.handlebars",
+		"/Users/josephkohatsu/Desktop/W8-Files/23-CatsAppSolution/controllers/catsController.js",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/views/newUser.handlebars",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/.gitignore",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/db/seeds.sql",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/TheGoods/models/user.js",
+		"/Users/josephkohatsu/Desktop/W8-Files/23-CatsAppSolution/db/seeds.sql",
+		"/Users/josephkohatsu/Desktop/burger/public/assets/css/style.css",
+		"/Users/josephkohatsu/Desktop/burger/views/index.handlebars",
+		"/Users/josephkohatsu/Desktop/burger/views/layouts/main.handlebars",
+		"/Users/josephkohatsu/Desktop/burger/controllers/burgers_controller.js",
+		"/Users/josephkohatsu/Desktop/burger/models/burger.js",
+		"/Users/josephkohatsu/Desktop/burger/config/orm.js",
+		"/Users/josephkohatsu/Desktop/burger/server.js",
+		"/Users/josephkohatsu/Desktop/burger/config/connection.js",
+		"/Users/josephkohatsu/Desktop/15-Post-Author-Joins-Unsolved/config/config.json",
+		"/Users/josephkohatsu/Desktop/14-Post-Author-Association-Unsolved/models/post.js",
+		"/Users/josephkohatsu/Desktop/14-Post-Author-Association-Unsolved/server.js",
+		"/Users/josephkohatsu/Desktop/14-Post-Author-Association-Unsolved/config/config.json",
+		"/Users/josephkohatsu/Desktop/burger/db/schema.sql",
+		"/Users/josephkohatsu/Desktop/burger/db/seeds.sql",
+		"/Users/josephkohatsu/Desktop/W8-Files/11-WatchList/server.js",
+		"/Users/josephkohatsu/Desktop/05-SequelizeLibrary-UNSOLVED/app/models/book.js",
+		"/Users/josephkohatsu/Desktop/05-SequelizeLibrary-UNSOLVED/app/routes/api-routes.js",
+		"/Users/josephkohatsu/Downloads/02-SequelizeQuestions-skeleton/Sequelize_Instructions.md",
+		"/Users/josephkohatsu/Desktop/ben-and-jerrys/server.js",
+		"/Users/josephkohatsu/Desktop/ben-and-jerrys/views/icecream.handlebars",
+		"/Users/josephkohatsu/Desktop/ben-and-jerrys/views/icecreams.handlebars",
+		"/Users/josephkohatsu/Desktop/ben-and-jerrys/views/layouts/main.handlebars",
+		"/Users/josephkohatsu/Desktop/ben-and-jerrys/views/icreams.handlebars",
+		"/Users/josephkohatsu/Desktop/UT-Portfolio-Files/Bamazon/bamazonCustomer.js",
+		"/Users/josephkohatsu/Desktop/FriendFinder/app/public/home.html",
+		"/Users/josephkohatsu/Desktop/FriendFinder/app/public/survey.html",
+		"/Users/josephkohatsu/Desktop/FriendFinder/app/routing/apiRoutes.js",
+		"/Users/josephkohatsu/Desktop/FriendFinder/app/routing/htmlRoutes.js",
+		"/Users/josephkohatsu/Desktop/FriendFinder/app/data/friends.js",
+		"/Users/josephkohatsu/Desktop/PartyParty/server.js",
+		"/Users/josephkohatsu/Desktop/PartyParty/config/orm.js",
+		"/Users/josephkohatsu/Desktop/PartyParty/config/connection.js",
+		"/Users/josephkohatsu/Desktop/PartyParty/db/schema.sql",
+		"/Users/josephkohatsu/Desktop/PartyParty/db/seeds.sql",
+		"/Users/josephkohatsu/Desktop/W9-Files/16-HotRestaurant/app/public/home.html",
+		"/Users/josephkohatsu/Desktop/FriendFinder/server.js",
+		"/Users/josephkohatsu/Desktop/Wishes/server.js",
+		"/Users/josephkohatsu/Desktop/Wishes/schema.sql",
+		"/Users/josephkohatsu/Downloads/07-HandlebarsAnimalsBase/views/index.handlebars",
+		"/Users/josephkohatsu/Downloads/07-HandlebarsAnimalsBase/server.js",
+		"/Users/josephkohatsu/Downloads/07-HandlebarsAnimalsBase/views/dog.handlebars",
+		"/Users/josephkohatsu/Desktop/ben-jerry/server.js",
+		"/Users/josephkohatsu/Desktop/ben-jerry/views/layouts/index.handlebars",
+		"/Users/josephkohatsu/Desktop/ben-jerry/views/layouts/main.handlebars",
+		"/Users/josephkohatsu/Desktop/04-HandlebarsLunch/server.js",
+		"/Users/josephkohatsu/Desktop/04-HandlebarsLunch/views/index.handlebars",
+		"/Users/josephkohatsu/Desktop/04-HandlebarsLunch/views/all-lunches.handlebars",
+		"/Users/josephkohatsu/Desktop/GoT/server4.js",
+		"/Users/josephkohatsu/Desktop/GoT/view.html",
+		"/Users/josephkohatsu/Desktop/GoT/add.html",
+		"/Users/josephkohatsu/Desktop/GoT/server3.js",
+		"/Users/josephkohatsu/Desktop/GoT/server2.js",
+		"/Users/josephkohatsu/Desktop/GoT/server.js",
+		"/Users/josephkohatsu/Desktop/Bamazon/bamazonCustomer.js",
+		"/Users/josephkohatsu/Desktop/Bamazon/.gitignore",
+		"/Users/josephkohatsu/Desktop/Seinfeld/schema.sql",
+		"/Users/josephkohatsu/Desktop/Seinfeld/server.js",
+		"/Users/josephkohatsu/Desktop/W9-Files/02-MagicalSchools/schema.sql",
+		"/Users/josephkohatsu/Desktop/W9-Files/01-ExpressCalculator-unsolved/expressCalculator.js",
+		"/Users/josephkohatsu/Desktop/Hot-Restaurant/restaurant.js",
+		"/Users/josephkohatsu/Desktop/Hot-Restaurant/index.html",
+		"/Users/josephkohatsu/Desktop/Hot-Restaurant/reservations.html",
+		"/Users/josephkohatsu/Desktop/Hot-Restaurant/tables.html",
+		"/Users/josephkohatsu/Desktop/Bamazon/schema.sql",
+		"/Users/josephkohatsu/Desktop/W8-Files/13-Top5000Code/topSongsCode.js",
+		"/Users/josephkohatsu/Desktop/W9-Files/14-FinalStarwarsApp/server.js",
+		"/Users/josephkohatsu/Desktop/W8-Files/13-Top5000Code/schema.sql",
+		"/Users/josephkohatsu/Desktop/Flashcard-Generator/main.js",
+		"/Users/josephkohatsu/Desktop/08-StarWars-1/server1.js",
+		"/Users/josephkohatsu/Desktop/09-StarWars-2/server2.js",
+		"/Users/josephkohatsu/Desktop/server-favorites/server.js",
+		"/Users/josephkohatsu/Desktop/server-favorites/movies.html",
+		"/Users/josephkohatsu/Desktop/server-favorites/frameworks.html",
+		"/Users/josephkohatsu/Desktop/server-favorites/food.html",
+		"/Users/josephkohatsu/Desktop/server-favorites/index.html",
+		"/Users/josephkohatsu/Desktop/twoServ/server.js",
+		"/Users/josephkohatsu/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/josephkohatsu/Desktop/Flashcard-Generator/ClozeCard.js",
+		"/Users/josephkohatsu/Desktop/Flashcard-Generator/BasicCard.js",
+		"/Users/josephkohatsu/Desktop/playlistDB/playlist.js",
+		"/Users/josephkohatsu/Desktop/playlistDB/README.md",
+		"/Users/josephkohatsu/Downloads/02-FavoriteDB-NoData-Unsolved/favorite_db_unsolved.sql",
+		"/Users/josephkohatsu/Desktop/call-backs/app.js",
+		"/Users/josephkohatsu/Desktop/liri-node-app/modules/SpotifyController.js",
+		"/Users/josephkohatsu/Desktop/weather-app/cli.js",
+		"/Users/josephkohatsu/Desktop/weather-app/usersearch.js",
+		"/Users/josephkohatsu/Desktop/weather-app/weatheradmin.js",
+		"/Users/josephkohatsu/Downloads/09-MovieManager/movie.js",
+		"/Users/josephkohatsu/Desktop/classroom-exercise/classroom.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app",
+			"Sr",
+			"input",
+			"capture",
+			"data-name",
+			"\");"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 86.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
